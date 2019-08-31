@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gradient Material Buttons</string>
+
+    <string name="button_title_1">LEARN MORE</string>
+    <string name="button_title_2">DOWNLOAD</string>
+    <string name="button_title_3">LIKE IT</string>
+    <string name="button_title_4">BUY NOW</string>
+
+</resources>
